@@ -1,2 +1,3 @@
 # freecodecampJS
-5 projetos de JavaScript, algoritmos e Estruturas de Dados do JavaScript.
+5 projetos de JavaScript
+lgoritmos e Estruturas de Dados do JavaScript.
